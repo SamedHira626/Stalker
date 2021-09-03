@@ -25,7 +25,7 @@ Firstly, I used Isaac Sim by starting to create a scene like figure below.
 
 ![Screenshot from 2021-08-06 12-47-27](https://user-images.githubusercontent.com/42544569/132004829-da659874-7d3d-4d34-b475-6225a2615112.png)
 
-Secondly, I used Synthetic Data Recorder for gathering image data with respect to their coordinates so that my dataset is created with their labels in npy file format, as the dataset was recorded as npy file, I wrote a pyhton script that converts npy file to txt file for yolo. In the below figure, you can see how it looks like. By the way, I used Domain randomization to use texture component, light component, movement component etc. (You can see how I collected data using Domain Randomization in this link: )
+Secondly, I used Synthetic Data Recorder for gathering image data with respect to their coordinates so that my dataset is created with their labels in npy file format, as the dataset was recorded as npy file, I wrote a pyhton script that converts npy file to txt file for yolo. In the below figure, you can see how it looks like. By the way, I used Domain randomization to use texture component, light component, movement component etc. (You can see how I collected data using Domain Randomization in this link: https://youtu.be/1a3Q7aID_Ag)
 
 ![158](https://user-images.githubusercontent.com/42544569/132005462-a5aad6b3-e7a7-4dc3-bc1b-17d1e43db659.png)
 ![144](https://user-images.githubusercontent.com/42544569/132005470-59825197-50e2-4edb-ba12-698e95ad3650.png)
