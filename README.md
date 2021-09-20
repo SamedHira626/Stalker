@@ -9,7 +9,7 @@ Jetson Nano: https://openzeka.com/urun/nvidia-jetson-nano-developer-kit/
 
 CSI Camera: https://openzeka.com/urun/raspberry-pi-kamera-v2/
 
-# STL file of my car:
+# View of my car in Autodesk Fusion360:
 
 First of all, I started this work by drawing a simple car in Fusion360.
 
