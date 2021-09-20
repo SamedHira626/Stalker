@@ -34,6 +34,8 @@ Firstly, I started to use [Isaac Sim](https://docs.omniverse.nvidia.com/app_isaa
 
 Secondly, I used [Synthetic Data Recorder](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/ext_omni_isaac_synthetic_utils_syntheticdata_recorder.html) for gathering image data with respect to their coordinates so that my dataset is created with their labels in npy file format. As the dataset was recorded as npy file, I wrote a pyhton script that converts npy file to txt file for yolo training. In the figure below, you can see how it looks like. By the way, I used [Domain randomization](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/sample_syntheticdata.html) to use texture component, light component, movement component etc. (You can see how I collected data using Domain Randomization in this link: https://youtu.be/1a3Q7aID_Ag). As a result, data collection with labels just got 30 minutes by the help of [Isaac Sim](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html)
 
+Also, you can see the rest of my data set: https://drive.google.com/drive/folders/1Kev6fsuPnR0Kro1vbTEKbixf1MmVFES5
+
 ![158](https://user-images.githubusercontent.com/42544569/132005462-a5aad6b3-e7a7-4dc3-bc1b-17d1e43db659.png)
 ![144](https://user-images.githubusercontent.com/42544569/132005470-59825197-50e2-4edb-ba12-698e95ad3650.png)
 
