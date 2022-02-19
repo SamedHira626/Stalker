@@ -2,7 +2,7 @@
 
 # The aim is to follow objects I trained
 
-While I was doing my internship at [Open Zeka](https://openzeka.com), I built this car but before building that I worked on with [Jetson Inference](https://www.youtube.com/watch?v=QXIwdsyK7Rw&list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8&index=9), [DeepStream SDK](https://developer.nvidia.com/deepstream-sdk), [Hello AI World](https://www.youtube.com/watch?v=uvU8AXY1170&list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8), [Transfer Learning Toolkit](https://docs.nvidia.com/tao/tao-toolkit/text/overview.html) and [Jetbot](https://jetbot.org/master/)
+While I was working at [Open Zeka](https://openzeka.com), I built this car but before building that I worked on with [Jetson Inference](https://www.youtube.com/watch?v=QXIwdsyK7Rw&list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8&index=9), [DeepStream SDK](https://developer.nvidia.com/deepstream-sdk), [Hello AI World](https://www.youtube.com/watch?v=uvU8AXY1170&list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8), [Transfer Learning Toolkit](https://docs.nvidia.com/tao/tao-toolkit/text/overview.html) and [Jetbot](https://jetbot.org/master/)
 
 # Materials:
 Jetson Nano: https://openzeka.com/urun/nvidia-jetson-nano-developer-kit/
