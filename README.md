@@ -48,7 +48,9 @@ Finally, clone this repository and just run stalker.py with python3:
 
 
 
-# Full Video Link is Avaliable: https://youtu.be/qP-J14y7uEY
+# Full Video Link for Object Following: https://youtu.be/qP-J14y7uEY
+
+# Full Video Link for Data Generation with Synthetic Data Recorder: https://youtu.be/1a3Q7aID_Ag
 
 
 
